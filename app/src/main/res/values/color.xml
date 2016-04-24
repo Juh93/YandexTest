@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="backgr" type="color">#26a1a1a1</item>
+    <item name="backgr_item" type="color">#d9d9d9</item>
+    <item name="white" type="color">#ffffff</item>
+    <item name="black" type="color">#010101</item>
+    <item name="item_pressed" type="color">#e2f8ff</item>
+    <item name="text_description" type="color">#303030</item>
+    <item name="text_gray" type="color">#606060</item>
+    <item name="without_color" type="color">#00000000</item>
+
+</resources>

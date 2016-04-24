@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Яндекс.Тест</string>
+
+    <string name="about">О программе</string>
+    <string name="about_descr">Приложение выполнено в рамках проекта Яндекс Мобилизация 2016</string>
+    <string name="about_close">Закрыть</string>
+    <string name="biography">Биография</string>
+    <string name="error_message">Произошла ошибка</string>
+    <string name="error_button">Повторить запрос</string>
+
+    <string name="one_song">песня</string>
+    <string name="few_song">песни</string>
+    <string name="many_song">песен</string>
+    <string name="one_alb">альбом</string>
+    <string name="few_alb">альбома</string>
+    <string name="many_alb">альбомов</string>
+    <string name="site">Сайт:</string>
+    <string name="discography">Дискография:</string>
+    <string name="genres">Жанры:</string>
+</resources>
